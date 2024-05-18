@@ -29,7 +29,7 @@ function VentEmergent() {
             <DialogDescription asChild="asChild">
                 <div>
                     <p className='pt-2'>Exction Description One</p>
-                    <div className='flex-col  divide-y divide-stone-200  w-full border-x border-y border-stone-700 mx-auto'>
+                    <div className='flex-col  divide-y divide-stone-200  w-full border-x  border-y  mx-auto'>
                         <div className='flex mx-auto'>
                             <label className='w-1/2 px-1'>option 1</label>
                             <Input type="email" placeholder="Email"/>
@@ -50,7 +50,7 @@ function VentEmergent() {
                 </div>
                 <div>
                     <p className='pt-2'>Exction Description One</p>
-                    <div className='flex-col  divide-y divide-stone-200  w-full border-x border-y border-stone-700 mx-auto'>
+                    <div className='flex-col  divide-y divide-stone-200  w-full border-x  border-y  mx-auto'>
                         <div className='flex mx-auto'>
                             <label className='w-1/2 px-1'>option 1</label>
                             <Input type="email" placeholder="Email"/>
@@ -71,7 +71,7 @@ function VentEmergent() {
                 </div>
                 <div>
                     <p className='pt-2'>Exction Description One</p>
-                    <div className='flex-col  divide-y divide-stone-200  w-full border-x border-y border-stone-700 mx-auto'>
+                    <div className='flex-col  divide-y divide-stone-200  w-full border-x   border-y  mx-auto'>
                         <div className='flex mx-auto'>
                             <label className='w-1/2 px-1'>option 1</label>
                             <Input type="email" placeholder="Email"/>
