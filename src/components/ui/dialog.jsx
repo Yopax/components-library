@@ -80,7 +80,7 @@ const DialogDescription = React.forwardRef(({ className, asChild = false, ...pro
   return (
     <Component
       ref={ref}
-      className={cn("text-xs px-4 bg-neutral-100 py-2 font-sans", className)}
+      className={cn("text-xs px-6 bg-neutral-100 py-2 font-sans", className)}
       {...props}
     />
   );
