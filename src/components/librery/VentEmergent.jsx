@@ -28,69 +28,69 @@ function VentEmergent() {
             <DialogTitle>
                 <div className='flex space-x-2'>
                     <IconOne/>
-                    <p>Are you absolutely sure?</p>
+                    <p className='font-sans'>Are you absolutely sure?</p>
                 </div>
             </DialogTitle>
             <DialogDescription asChild="asChild">
                 <div>
-                    <p className=''>Exction Description One</p>
+                    <p className='font-sans text-start'>Exction Description One</p>
                     <div className='flex-col  divide-y divide-stone-200  w-full border-x  border-y  mx-auto'>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 1</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start'>option 1</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto '>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 2</label>
+                            <label className='w-1/2 px-2 text-stone-600   text-start'>option 2</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 3</label>
+                            <label className='w-1/2 px-2 text-stone-600   text-start'>option 3</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 4</label>
+                            <label className='w-1/2 px-2 text-stone-600  text-start'>option 4</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                     </div>
                 </div>
                 <div>
-                    <p className='pt-3'>Exction Description One</p>
+                    <p className='pt-3 text-start'>Exction Description One</p>
                     <div className='flex-col  divide-y divide-stone-200  w-full border-x  border-y  mx-auto'>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 1</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start'>option 1</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto '>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 2</label>
+                            <label className='w-1/2 px-2 text-stone-600  text-start'>option 2</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 3</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start '>option 3</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 4</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start'>option 4</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                     </div>
                 </div>
                 <div>
-                    <p className='pt-3'>Exction Description One</p>
+                    <p className='pt-3 text-start'>Exction Description One</p>
                     <div className='flex-col  divide-y divide-stone-200  w-full border-x   border-y  mx-auto'>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 1</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start'>option 1</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto '>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 2</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start '>option 2</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600 '>option 3</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start '>option 3</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                         <div className='flex mx-auto'>
-                            <label className='w-1/2 px-1 text-stone-600'>option 4</label>
+                            <label className='w-1/2 px-2 text-stone-600 text-start'>option 4</label>
                             <Input type="email" placeholder="Email"/>
                         </div>
                     </div>
